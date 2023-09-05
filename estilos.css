@@ -1,0 +1,22 @@
+body {
+        background-color:rgb(95, 211, 85);
+        
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight:700; /* peso del contorno de la letra */
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 255, 255) ;
+    letter-spacing:0cqmax;
+    font-size:xx-large;
+}
+picture {
+    display: flex;
+    justify-content:center;
+
+}
+p{
+font-family:'Times New Roman', Times, serif;
+font-size:large;
+}

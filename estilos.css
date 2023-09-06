@@ -1,22 +1,50 @@
 body {
-        background-color:rgb(95, 211, 85);
-        
+    background-image: url('assets/img/fonmdo.avif');
+    background-size: auto
 }
+
 h1 {
     text-align: center;
     text-transform: uppercase;
-    font-weight:700; /* peso del contorno de la letra */
+    font-weight: 700;
+    /* peso del contorno de la letra */
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(255, 255, 255) ;
-    letter-spacing:0cqmax;
-    font-size:xx-large;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0cqmax;
+    font-size: xx-large;
 }
+
 picture {
     display: flex;
-    justify-content:center;
+    justify-content: center;
 
 }
-p{
-font-family:'Times New Roman', Times, serif;
-font-size:large;
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    color: red;
+}
+
+#opciones li {
+    display: inline-block;
+    padding: 10px;
+}
+
+#boca {
+    background-image: url(assets/img/azul.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#pe{
+    text-align: left;
+    color: white;
+    margin-right: 100px;
+}
+h2{
+    text-align: left;
+    background-color: rgb(255, 255, 0);
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
 }

@@ -33,14 +33,15 @@ p {
 }
 
 #boca {
-    background-image: url(assets/img/azul.jpg);
-    background-size: cover;
+    background-image: url(assets/img/la-bombonera.jpg);
+    background-size:cover;
     background-repeat: no-repeat;
 }
-#pe{
+.pe{
     text-align: left;
     color: white;
     margin-right: 100px;
+    font-size:x-large;
 }
 h2{
     text-align: left;
@@ -48,3 +49,10 @@ h2{
     font-weight: 900;
     font-family: 'Times New Roman', Times, serif;
 }
+#texto{
+    text-align: right;
+    color: rgb(255, 251, 0);
+    margin-right: 100px;
+    font-size:x-large;
+}
+
